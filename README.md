@@ -32,18 +32,56 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  
 
 ### PROCEDURE:
+```
+STEP 1:
+Open the roboanalyzer software.
+
+STEP 2:
+Select the robot and its degrees of freedom.
+
+STEP 3:
+Change the values with the link lenght wherever necessary.
+
+STEP 4:
+Simulate the model for forward kinematics.
+
+STEP 5:
+Plot the graph between the link and the joints.
+
+STEP 6:
+Update the DH parameters of the link configuration and end effector configuration.
+
+```
+DH PARAMETERS:
+
+6 DOF
+
+
+![image](https://github.com/PrasannaCse68/Forward-kinematics-using-robot-analyzer/assets/127935950/5b294946-e531-43d8-92fb-523e30db979a)
 
 
 
+4 DOF
+
+
+![image](https://github.com/PrasannaCse68/Forward-kinematics-using-robot-analyzer/assets/127935950/cd4fccd5-e17b-4a15-8c9f-4b8783c21c04)
 
 
 ### SIMULATION 
  
  
  
+ 6 DOF
  
  
+ ![image](https://github.com/PrasannaCse68/Forward-kinematics-using-robot-analyzer/assets/127935950/bf0c979e-7f70-4e66-bbed-3738818d6eaa)
+
  
+ 
+ 4 DOF
+ 
+ ![image](https://github.com/PrasannaCse68/Forward-kinematics-using-robot-analyzer/assets/127935950/c16f5dcc-288c-418d-9267-0d67e9802de6)
+
  
  ### PLOT 
  
@@ -51,28 +89,41 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  
  
  
+6 DOF 
  
  
  
- 
- 
- 
- 
+ ![image](https://github.com/PrasannaCse68/Forward-kinematics-using-robot-analyzer/assets/127935950/e4f353f9-44a4-4b21-988e-2522a8ae9186)
 
  
  
 
+ 
+ 4 DOF
 
 
 
 
+![image](https://github.com/PrasannaCse68/Forward-kinematics-using-robot-analyzer/assets/127935950/bd9cb778-0e40-4ed9-bdca-269dfa729b7b)
 
 
 
 
+EE CONFIGURATION:
 
 
+6 DOF
 
+
+![image](https://github.com/PrasannaCse68/Forward-kinematics-using-robot-analyzer/assets/127935950/86199f64-e082-4fe1-917c-64bad43c699b)
+
+
+4 DOF
+
+
+![image](https://github.com/PrasannaCse68/Forward-kinematics-using-robot-analyzer/assets/127935950/f2fff035-cba0-43b5-bc88-bc6c031b6ce2)
 
 
 ### RESULTS :  
+
+The forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer has been analyzed and the graph for link cordinates and joint angles has been ploted.
